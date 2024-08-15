@@ -1,9 +1,0 @@
-/home/niluyang/git/simplessd-standalone/CMakeFiles/simplessd-standalone.dir
-/home/niluyang/git/simplessd-standalone/CMakeFiles/edit_cache.dir
-/home/niluyang/git/simplessd-standalone/CMakeFiles/rebuild_cache.dir
-/home/niluyang/git/simplessd-standalone/simplessd/CMakeFiles/simplessd.dir
-/home/niluyang/git/simplessd-standalone/simplessd/CMakeFiles/edit_cache.dir
-/home/niluyang/git/simplessd-standalone/simplessd/CMakeFiles/rebuild_cache.dir
-/home/niluyang/git/simplessd-standalone/simplessd/lib/mcpat/CMakeFiles/mcpat.dir
-/home/niluyang/git/simplessd-standalone/simplessd/lib/mcpat/CMakeFiles/edit_cache.dir
-/home/niluyang/git/simplessd-standalone/simplessd/lib/mcpat/CMakeFiles/rebuild_cache.dir
